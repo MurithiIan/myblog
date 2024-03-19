@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Web Development",
+      "author": "Samson",
+      "body": "contrary to pop belief",
+      "id": "1"
+    },
+    {
+      "title": "Java Programming",
+      "author": "Mary",
+      "body": "There are many variations of passages",
+      "id": "2"
+    },
+    {
+      "title": "Cyber security",
+      "author": "Ian",
+      "body": "contrary to pop belief",
+      "id": "3"
+    },
+    {
+      "id": "ad3c",
+      "title": "",
+      "author": "",
+      "body": "jnkfjgndkgngdg"
+    },
+    {
+      "id": "a4d8",
+      "title": "",
+      "author": "",
+      "body": ""
+    },
+    {
+      "id": "4256",
+      "title": "hhh",
+      "author": "hjkl",
+      "body": "asdfg"
+    },
+    {
+      "id": "ad0e",
+      "title": "sdfgh",
+      "author": "asdfgh",
+      "body": "asdfgh"
+    }
+  ]
+}
